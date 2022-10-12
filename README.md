@@ -15,6 +15,7 @@
     
     **Obs: Durante o curso, o repositório original foi excluído, não será possível visualizar as branches e merges feitas.**
 
-### Comprovante da Conclusão do Curso
-![comprovante](https://user-images.githubusercontent.com/62157751/189461713-4b04f322-82d1-4906-bee0-1502a86a7888.png)  
-_Ainda não pude pagar pelo certificado, o curso foi concluído com aproveitamento de 90%._
+### Certificado de Conclusão do Curso
+
+![Certificado Git e GitHub](https://user-images.githubusercontent.com/62157751/195442001-214b29ef-5c90-46df-986d-0280eaa7b57b.jpg)
+
